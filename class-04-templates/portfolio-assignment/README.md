@@ -17,4 +17,5 @@ Use what you learned in the class 4 lecture to improve the structure of your Por
 
 ## Helpful Resources
  - Handlebars: http://handlebarsjs.com
+ - Type Scale Tool via type-scale.com: http://type-scale.com
  - SMACSS: https://smacss.com/
