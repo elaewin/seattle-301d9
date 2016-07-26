@@ -1,6 +1,6 @@
 page('/', index);
-page();
 page('/contact', contact);
+page();
 
 function index() {
   document.querySelector('p')
